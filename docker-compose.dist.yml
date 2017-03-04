@@ -1,5 +1,5 @@
 web:
-    image: jwerd/base
+    image: jwerd/homestead-docker
     restart: always
     ports:
         - "8000:80" # web
